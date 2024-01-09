@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Testimonial from "./components/Testimonial";
+import CTA from "./components/CTA";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <Services />
       <Testimonial />
+      <CTA />
     </>
   );
 }
