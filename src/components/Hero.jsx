@@ -14,13 +14,17 @@ export default function Hero() {
           <div className="hero-overlay bg-opacity-60 bg-secondary"></div>
           <div className="hero-content text-center text-secondary-content">
             <div className="max-w-lg">
-              <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
-              <p className="mb-5">
+              <h1 className="mb-5 sm:mb-7 text-4xl sm:text-5xl font-bold">
+                Let's Make Your Product a Success
+              </h1>
+              <p className="mb-5 sm:mb-7 sm:text-lg">
                 Provident cupiditate voluptatem et in. Quaerat fugiat ut
                 assumenda excepturi exercitationem quasi. In deleniti eaque aut
                 repudiandae et a id nisi.
               </p>
-              <button className="btn btn-primary">Get Started</button>
+              <button className="btn btn-warning sm:btn-wide">
+                Get Started
+              </button>
             </div>
           </div>
         </div>
