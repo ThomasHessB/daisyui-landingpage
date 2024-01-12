@@ -13,6 +13,7 @@ This repository contains a distinctively designed landing page built with Vite, 
 - **Theme Flexibility:** Incorporates DaisyUI themes, offering a variety of aesthetic choices.
 
 ## Technologies Used
+- Node JS
 - Vite
 - React JS
 - TailwindCSS
